@@ -1,0 +1,6 @@
+"# Lektion 01 - Einfhrung ins Terminal" 
+"" 
+"In dieser Lektion lernst du die grundlegenden Linux-Befehle:" 
+"- pwd - zeigt das aktuelle Verzeichnis" 
+"- ls  - zeigt den Inhalt des Verzeichnisses" 
+"- cd  - wechselt das Verzeichnis" 
